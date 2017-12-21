@@ -65,5 +65,6 @@ $ eb open
 
 ## Update
 ```
-$ git aws.push
+$ eb deploy
+# git aws.push is deprecated
 ```
