@@ -65,6 +65,8 @@ $ eb open
 
 ## Update
 ```
+$ git add FILE_NAME
+$ git commit -m MESSAGE
 $ eb deploy
 # git aws.push is deprecated
 ```
